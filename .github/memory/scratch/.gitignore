@@ -1,0 +1,5 @@
+# Ignore all files in scratch directory
+# This keeps active session notes ephemeral and out of git
+
+*
+!.gitignore
